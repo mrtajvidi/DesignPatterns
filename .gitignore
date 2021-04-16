@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DesignPatterns/v16
+/DesignPatterns/.vs/Random
+/DesignPatterns/bin/Debug/netcoreapp3.1
+/DesignPatterns/obj
+/DesignPatterns.Logic/bin/Debug/netstandard2.0
+/DesignPatterns.Logic/obj
+/DesignPatterns.Tests/bin/Debug/netcoreapp3.1
+/DesignPatterns.Tests/obj
+*.v2
+*.user
