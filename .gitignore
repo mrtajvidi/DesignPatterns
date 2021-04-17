@@ -12,3 +12,6 @@
 /DesignPatterns.Tests/obj
 *.v2
 *.user
+/DesignPatterns.Tests/bin/*
+
+/DesignPatterns/bin/*

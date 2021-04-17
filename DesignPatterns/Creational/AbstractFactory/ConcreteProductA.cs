@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.AbstractFactory
+﻿namespace DesignPatterns.Creational.AbstractFactory
 {
     public class ConcreteProductA : IAbstractProductA
     {
